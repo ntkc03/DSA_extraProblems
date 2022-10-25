@@ -1,8 +1,3 @@
-/*
-    - Bài toán:
-    - Input:
-    - Output:
-*/
 
 
 /*
